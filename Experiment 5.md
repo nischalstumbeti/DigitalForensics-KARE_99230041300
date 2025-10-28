@@ -125,17 +125,6 @@ Successfully created a forensic case using **Autopsy**, imported evidence, analy
 ## Conclusion
 **Autopsy** simplifies digital investigations through its modular approach and user-friendly interface.  
 It provides a complete forensic workflow, making it a valuable tool for both academic and professional forensic analysis.
-
----
-
-## Viva Questions
-
-1. What is the main purpose of using Autopsy in digital forensics?  
-2. What are the types of data sources that can be added to Autopsy?  
-3. Explain the role of ingest modules.  
-4. How does the Timeline module assist investigators?  
-5. Why is hash analysis important in forensic investigations?
-
 ---
 
 <br>
