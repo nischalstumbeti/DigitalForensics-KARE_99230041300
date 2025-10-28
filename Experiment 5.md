@@ -38,27 +38,27 @@ Digital Forensics - 213CSE4307 | Lab Record | Section: 23S19 - Cybersecurity
 
 ---
 
-## 🎯 Objective
+##  Objective
 To learn how to use **Autopsy**, an open-source digital forensics tool, to create a case, import evidence, and analyze digital artifacts.
 
 ---
 
-## 🧩 Introduction
+##  Introduction
 **Autopsy** is a digital forensics platform used for investigating and analyzing data from computers and mobile devices.  
 It enables investigators to extract, review, and report on digital evidence in a structured and efficient manner.
 
 ---
 
-## ⚙️ Step-by-Step Procedure
+##  Step by Step Procedure
 
-### 1️⃣ Installation
+###  Installation
 - Download **Autopsy** from the [official website](https://www.autopsy.com/download/).  
 - Follow installation steps for your OS (Windows, Linux, or macOS).  
 - Launch the application after successful installation.
 
 ---
 
-### 2️⃣ Starting a New Case
+###  Starting a New Case
 1. Open Autopsy and click **“New Case.”**  
 2. Enter **case name** and choose the **storage location**.  
 3. Provide **case number** and **examiner details.**  
@@ -66,7 +66,7 @@ It enables investigators to extract, review, and report on digital evidence in a
 
 ---
 
-### 3️⃣ Adding a Data Source
+###  Adding a Data Source
 1. **Select Data Source Type:** Disk Image, Logical Files, or Local Disk.  
 2. **Add the Data Source:** Choose the file or drive to analyze.  
 3. **Configure Ingest Modules:** Enable modules such as File Type Identification, Hash Lookup, and Keyword Search.  
@@ -74,33 +74,33 @@ It enables investigators to extract, review, and report on digital evidence in a
 
 ---
 
-### 4️⃣ Initial Analysis and Overview
+###  Initial Analysis and Overview
 - **Monitor Ingest Progress:** Displayed in the lower-left corner.  
 - **Explore Artifacts:** Use the **Tree Viewer** to review categories such as Web History, Images, and Documents.
 
 ---
 
-### 5️⃣ Detailed Analysis
+###  Detailed Analysis
 
-#### 🔑 Keyword Search
+####  Keyword Search
 - Use the **Keyword Search** module to locate specific terms.  
 - Add **custom keywords** or import pre-defined lists.
 
-#### 📁 File Analysis
+####  File Analysis
 - Explore files under **File Types** or **File System.**  
 - View, open, or export files for detailed examination.
 
-#### ⏱️ Timeline Analysis
+####  Timeline Analysis
 - Use the **Timeline module** to visualize chronological activity.  
 - Identify user actions and correlate evidence by time.
 
-#### 🔢 Hash Analysis
+####  Hash Analysis
 - Compare file hashes against known databases (e.g., NSRL).  
 - Identify **known good** or **malicious files.**
 
 ---
 
-### 6️⃣ Reporting
+###  Reporting
 - After analysis, click **“Generate Report.”**  
 - Choose output formats such as **HTML**, **CSV**, or **XML.**  
 - Reports include:
@@ -110,7 +110,7 @@ It enables investigators to extract, review, and report on digital evidence in a
 
 ---
 
-### 7️⃣ Case Closure
+###  Case Closure
 1. **Close the Case** once the investigation is completed.  
 2. **Archive Evidence and Reports** following your organization’s policies.  
 3. Ensure all reports and logs are securely stored for future reference.
@@ -122,13 +122,13 @@ Successfully created a forensic case using **Autopsy**, imported evidence, analy
 
 ---
 
-## 📚 Conclusion
+## Conclusion
 **Autopsy** simplifies digital investigations through its modular approach and user-friendly interface.  
 It provides a complete forensic workflow, making it a valuable tool for both academic and professional forensic analysis.
 
 ---
 
-## 🧠 Viva Questions
+## Viva Questions
 
 1. What is the main purpose of using Autopsy in digital forensics?  
 2. What are the types of data sources that can be added to Autopsy?  
@@ -144,13 +144,12 @@ It provides a complete forensic workflow, making it a valuable tool for both aca
 
 <tr>
 <td style="width:50%; text-align: left; padding: 10px;">
-<strong>Student Name:</strong> ___________________________ <br>
-<strong>Register No:</strong> ___________________________
+<strong>Student Name:</strong> Nischal S Tumbeti <br>
+<strong>Register No:</strong> 99230041300
 </td>
 
 <td style="width:50%; text-align: right; padding: 10px;">
-<strong>Verified by Faculty:</strong> ___________________________ <br>
-<strong>Signature:</strong> ___________________________
+<strong>Verified by Faculty:</strong> Dr.K Venkatesh <br>
 </td>
 </tr>
 
